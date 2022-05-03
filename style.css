@@ -1,0 +1,28 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #00FFFF;
+}
+.quem-somos {
+background-color: rgba(18, 2, 245, 0.178);
+ color: black;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: coral;
+}
+
+.serviços {
+    background-color: antiquewhite;
+}
+
+.eduardo {
+    background-color: grey;
+}
